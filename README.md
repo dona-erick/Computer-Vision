@@ -29,13 +29,18 @@ ASG001dw7s_1.jpeg 0
 
 
 ## Techniques utilisées
- . Labelisser les données (Label 0 pour "éléphants", 1 pour "zèbres")
- . Redimensionnage des images (size = 224, 224)
- . Visualisation des images 
- . Data augmentation pour améliorer 
+ #### Labelisser les données (Label 0 pour "éléphants", 1 pour "zèbres")
+ #### Redimensionnage des images (size = 224, 224)
+ #### Visualisation des images 
+ #### Data augmentation pour améliorer 
 
 ## Outils utilisées
 
- . Tensorflow et keras
- . Pytorch !pip install torch if you want to install 
- . Python
+ #### Tensorflow et keras
+ #### Pytorch !pip install torch if you want to install 
+ #### Python
+
+### Model using
+
+#### --- Model Convolutionnal Neural Networks
+#### ---- Model Pre-trained VGG16
